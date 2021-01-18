@@ -1,0 +1,10 @@
+// COMMITS
+export const SET_TODOS = 'SET_TODOS'
+
+
+// GETTERS
+export const GET_ALL_TODOS = 'GET_ALL_TODOS'
+
+
+// DISPATCHES
+export const FETCH_TODOS = 'FETCH_TODOS'
